@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rakshit P"
 title_separator          : "-"
 name                     : &name "Rakshit P"
-description              : &description "personal description"
+description              : &description "Computer Science Undergraduate at NITK"
 url                      : https://rakki-18.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rakki-18/rakki-18.github.io"
@@ -83,9 +83,9 @@ author:
   name             : "Rakshit P"
   avatar           : "profile.png"
   bio              : ""
-  location         : "Location"
+  location         : "Mangalore"
   employer         :
-  email            :  "rakshit.191cs!47@nitk.edu.in"
+  email            :  "rakshit.191cs147@nitk.edu.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -252,7 +252,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Kolkata # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
