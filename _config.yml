@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Rakshit P"
   avatar           : "profile.png"
-  bio              : ""
-  location         : "Mangalore"
+  bio              : "CSE 2nd year UG @ NITK"
+  location         : "Kerala"
   employer         :
   email            :  "rakshit.191cs147@nitk.edu.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,6 +96,7 @@ author:
   foursquare       :
   github           : "rakki-18"
   google_plus      :
+  linkedin         : "rakshit-p"
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"

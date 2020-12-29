@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-<u><b>Ongoing Projects</u></b>
+<u><b>Ongoing Projects</b></u>
 
 **Review Summarization** 
 
@@ -19,9 +19,10 @@ Working in [HALE LAB NITK](https://halelabnitk.github.io/) under the supervision
 
 Working on building a contextual AI assistant chatbot that answers location based queries of NITK using the open-source framework rasa.<br>
 
-<u><b>Past Projects</u></b>
+<u><b>Past Projects</b></u>
 
 **Shortest path in a maze**
+
 Building a self-navigating AI agent that finds the shortest path from the start to the endpoint using A* search algorithm in a maze filled with obstacles and rewards rendered in UnityGameEngine.<br>
 [Code](https://github.com/rakki-18/Shortest-path-in-maze) <br>
 
